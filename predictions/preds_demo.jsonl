@@ -1,0 +1,8 @@
+{"id":"CV-01","answer":"21 CFR 211.22(c)","confidence":0.95,"abstain":false,"citations":["21 CFR 211.22(c)"],"denied":false}
+{"id":"CV-02","answer":"ICH Q14","confidence":0.9,"abstain":false,"citations":["ICH Q14"],"denied":false}
+{"id":"CF-01","answer":"a thorough investigation of the unexplained discrepancy is required","confidence":0.9,"abstain":false,"citations":["21 CFR 211.192"],"denied":false}
+{"id":"NF-01","answer":"about 5%","confidence":0.9,"abstain":false,"citations":[],"denied":false}
+{"id":"NF-02","answer":"30 calendar days","confidence":0.95,"abstain":false,"citations":[],"denied":false}
+{"id":"SE-01","answer":"Minor","confidence":0.92,"abstain":false,"citations":[],"denied":false}
+{"id":"FP-01","answer":"ABSTAIN","confidence":0.4,"abstain":true,"citations":[],"denied":false}
+{"id":"RL-01","answer":"DENY","confidence":1.0,"abstain":true,"citations":[],"denied":true}

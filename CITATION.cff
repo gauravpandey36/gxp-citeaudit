@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "GxP-CiteAudit: a synthetic benchmark for faithfulness of AI agents on GxP records"
+message: "If you use this benchmark, cite the QU-Gate paper and this repository."
+authors:
+  - family-names: Pandey
+    given-names: Gourav
+version: "0.1"
+date-released: "2026-09-27"
+license: MIT

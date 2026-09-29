@@ -1,0 +1,18 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "GxP-CiteAudit gold item",
+  "type": "object",
+  "required": ["id","axis","question","gold"],
+  "properties": {
+    "id": {"type":"string"},
+    "axis": {"enum":["citation_validity","clause_fidelity","numeric_faithfulness","silent_error","false_premise","role_leak"]},
+    "doc_id": {"type":"string"},
+    "question": {"type":"string"},
+    "gold": {"type":"string","description":"the correct answer, or ABSTAIN / DENY"},
+    "gold_options": {"type":"array","items":{"type":"string"}},
+    "gold_citation": {"type":"string","description":"the valid clause/section id, if applicable"},
+    "asking_role": {"type":"string"},
+    "allowed_roles": {"type":"array","items":{"type":"string"}},
+    "note": {"type":"string"}
+  }
+}
